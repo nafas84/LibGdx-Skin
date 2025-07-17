@@ -41,6 +41,11 @@ This skin does **not include** the following libGDX widget styles:
 
 ---
 
+## 🗣 Feedback & Issues
+If you encounter any bugs, or want to request improvements,
+feel free to open an Issue on the GitHub Issues page.
+I'll try to fix or update it as soon as possible. 🙂
+
 ## 📁 How to Use
 
 1. Copy all files (`uiskin.json`, `.atlas`, fonts, images...) to your `assets/skin/` folder.
@@ -48,3 +53,6 @@ This skin does **not include** the following libGDX widget styles:
 
 ```java
 Skin skin = new Skin(Gdx.files.internal("skin/NzSkin.json"));
+
+
+
