@@ -14,6 +14,7 @@ This skin supports **4 unique `TextButtonStyle`s**, each with a themed logo word
 - `Plant` 🌱
 
 These styles have visual icons/logos in the button texture, matching the name and theme.
+➡️ Important: When using any of these styles, set the button's width to 222 to preserve the correct visual shape and alignment.
 
 ### ✅ Labels
 This skin provides **4 font styles** usable via `LabelStyle`:
